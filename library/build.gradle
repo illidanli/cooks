@@ -1,0 +1,14 @@
+apply plugin: 'com.android.library'
+
+dependencies {
+    implementation 'com.android.support:recyclerview-v7:21.0.3'
+}
+
+android {
+    compileSdkVersion 25
+
+    defaultConfig {
+        minSdkVersion 7
+    }
+}
+

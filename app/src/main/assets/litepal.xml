@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Restaurant"></dbname>
+    <version value = "35"></version>
+    <list>
+        <mapping class="com.njupt.mobile.cook.bean.ResBuyCategoryNum"></mapping>
+        <mapping class="com.njupt.mobile.cook.bean.ResBuyItemNum"></mapping>
+    </list>
+</litepal>

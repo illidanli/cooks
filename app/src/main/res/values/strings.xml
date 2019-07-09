@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">药水哥的深夜食堂</string>
+    <string name="title_home">title_home</string>
+    <string name="multiple_order">综合排序</string>
+    <string name="good_common">好评优先</string>
+    <string name="short_distance">距离最近</string>
+    <string name="select_classify">选择分类</string>
+    <string name="change_look">切换浏览</string>
+    <string name="order_filter">筛选</string>
+    <string name="goods_describe">农家现挖红心红薯地瓜小香薯粉糯香甜5斤</string>
+    <string name="limit_num_eat">限量尝鲜</string>
+    <string name="all_classify">全部分类</string>
+    <string name="daily_good_select">每日优选</string>
+    <string name="often_use_list">常用清单</string>
+    <string name="change_enjoy">充值专享</string>
+
+    <string name="bottom_tab_home">首页</string>
+    <string name="bottom_tab_cart">购物车</string>
+    <string name="bottom_tab_order">订单</string>
+    <string name="bottom_tab_my">我的</string>
+
+    <string name="head_icon_food">美食</string>
+    <string name="head_icon_one">公寓一楼</string>
+    <string name="head_icon_two">公寓二楼</string>
+    <string name="head_icon_three">公寓三楼</string>
+
+    <string name="app_exit_notice">再按一次退出食堂订餐</string>
+    <string name="search_flag">搜索商家、商品名称</string>
+
+    <string name="head_icon_deliver">众包专送</string>
+    <string name="head_icon_sweet">甜品饮品</string>
+    <string name="head_icon_prefer">新店特惠</string>
+    <string name="head_icon_ham">炸鸡汉堡</string>
+    <string name="head_icon_fruit">水果生鲜</string>
+    <string name="head_icon_cook">家常菜</string>
+
+    <string name="one_fragment_content_item_name">稻童小鲜粥（麦收大厦店）</string>
+    <string name="one_fragment_order_num">月售1216单</string>
+
+    <string name="reduce">减</string>
+    <string name="special">特</string>
+    <string name="first">首</string>
+    <string name="give">赠</string>
+    <string name="recommend_res">推荐商家</string>
+    <string name="go_to_account">去结算</string>
+    <string name="go_to_buy">去凑单</string>
+    <string name="no_select_goods">未选购商品</string>
+    <string name="evaluate">评价</string>
+    <string name="order">点餐</string>
+    <string name="restaurant">商家</string>
+    <string name="delete_res">删除商家</string>
+    <string name="delete_res_goods">确认删除该商家的所有商品？</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="yes">确定</string>
+
+    <string name="res_month_sell_order">月售%1$d单</string>
+    <string name="res_deliver_money">请选择想吃的菜品</string>
+    <string name="res_extra_money">配送费￥%1$d</string>
+    <string name="res_deliver_time">%1$d分钟</string>
+    <string name="res_item_num">×%1$d</string>
+    <string name="res_business_deliver_time">商家配送约%1$d分钟</string>
+    <string name="res_description">欢迎光临，用餐高峰请提前下单，谢谢!</string>
+    <string name="cart">购物车</string>
+    <string name="list">订单</string>
+    <string name="my">我的</string>
+
+    <string name="sale_highest">销量最高</string>
+    <string name="deliver_price_lowest">起送价最低</string>
+    <string name="deliver_time_lowest">配送最快</string>
+    <string name="extra_price_lowest">配送费最低</string>
+
+    <string name="order_has_done">订单已完成</string>
+    <string name="order_fragment_item_res_item_num">等%1$d件商品</string>
+    <string name="order_fragment_item_buy">再来一单</string>
+
+    <string name="search_hint">搜索商家、商品名称</string>
+    <string name="search">搜索</string>
+
+    <string name="wallet_balance">钱包余额</string>
+    <string name="red_paper">红包</string>
+    <string name="gold_money">金币</string>
+    <string name="user_name">用户名</string>
+    <string name="user_phone">手机号</string>
+    <string name="user_sex">性别</string>
+    <string name="goods_address">收货地址</string>
+    <string name="my_collect">我的收藏</string>
+    <string name="user_pwd">登录密码</string>
+    <string name="alter">修改</string>
+    <string name="buy_pwd">支付密码</string>
+    <string name="log_out">退出登录</string>
+    <string name="user_name_not_empty">用户名不能为空</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="alter_pwd">修改密码</string>
+
+    <string name="set_pwd_warn">*新密码大于6位，且包含【英文大写、英文小写、特殊字符、数字】中的两种字符，不能与当前密码相同。</string>
+</resources>
